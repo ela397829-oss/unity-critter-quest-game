@@ -1,0 +1,1 @@
+%YAML 1.1\n%TAG ! tag:unity3d.com,2011:\n--- !u!129 &1\nPlayerSettings:\n  m_ObjectHideFlags: 0\n  serializedVersion: 23\n  productName: Critter Quest\n  displayName: Critter Quest\n  defaultIcon: {fileID: 0}\n  targetDevice: 2\n  useOnDemandResources: 0\n  accelerometerFrequency: 60\n  companyName: Game Development\n  productVersion: 1.0.0\n  cloudEnabled: 0\n  multiplayer: 0\n
