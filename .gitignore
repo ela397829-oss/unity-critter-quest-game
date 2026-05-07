@@ -1,0 +1,15 @@
+.gitignore
+.DS_Store
+.vscode/
+.idea/
+*.csproj
+*.sln
+Library/
+Temp/
+obj/
+bin/
+*.log
+*.exe
+*.apk
+*.ipa
+UserSettings/
